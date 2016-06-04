@@ -14,3 +14,5 @@ The current plan is to move the equipment on Thursday afternoon, and sell it all
 See this link for more details about the event and venue location:
 
 [More Information](http://www.hamcom.org/attending-info.cfm)
+
+If you are available to help, contact [Andrew, KE5GDB](mailto:ke5gdb@gmail.com).
