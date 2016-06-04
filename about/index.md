@@ -7,4 +7,8 @@ logo: 'assets/images/k5utd_logoDark.png'
 current: about
 ---
 
-The K5UTD amatuer radio club works to promote amatuer radio within UTD and the greater Richardson area.  We participate in contests, swap meets and area radio projects.  Join us today!
+The K5UTD Amateur Radio Club works to promote amateur radio within UTD and the greater Richardson area.  We participate in contests, swap meets and area radio projects.
+
+We maintain the 145.430- (pl110.9) repeater, and have a shack in the Engineering and Computer Science building on the UT Dallas campus. 
+
+Feel free to (drop us a line)[k5utdarc@gmail.com]. 
