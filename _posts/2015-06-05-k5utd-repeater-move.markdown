@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/k5utd-14543.jpg'
+cover: 'assets/images/145.43_Coverage.jpg'
 title: K5UTD Repeater Move
 date:   2016-06-03 23:00:00
 navigation: True
