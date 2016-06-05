@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/145.43_Coverage.jpg'
 title: K5UTD Repeater Move
-date:   2016-06-03 23:00:00
+date:   2016-06-05 02:00:00
 navigation: True
 subclass: 'post tag-speeches'
 logo: 'assets/images/k5utd_logo.png'
