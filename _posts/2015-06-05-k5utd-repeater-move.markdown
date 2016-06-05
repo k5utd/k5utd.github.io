@@ -7,7 +7,7 @@ navigation: True
 subclass: 'post tag-speeches'
 logo: 'assets/images/k5utd_logo.png'
 ---
-The K5UTD ARC will be installing equipment on the 300' tower on the UT Dallas campus. 
+The K5UTD ARC will be installing equipment on the 300' tower on the UT Dallas campus.
 
 The primary mission is to move our 145.430 repeater antenna to the top of the tower. We are currently side-mounted, and have a "cone of shame" due south of the tower as an artifact of being side-mounted on the north leg. The current setup yields a cardioid-like pattern, as if a yagi were pointed at McKinney.
 
