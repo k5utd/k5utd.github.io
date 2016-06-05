@@ -1,6 +1,10 @@
 ---
 layout: post
+<<<<<<< HEAD
 cover: 'assets/images/k5utd-14543.jpg'
+=======
+cover: 'assets/images/145.43_Coverage.jpg'
+>>>>>>> 5c692d05485d5a2738c9db30d86f4f529b96384e
 title: K5UTD Repeater Move
 date:   2016-06-03 23:00:00
 navigation: True
