@@ -10,18 +10,24 @@ current: systems
 The K5UTD Amateur Radio Club maintains several systems to serve local area hams and clubs.
 
 **2m Repeater**
+
 * 145.430MHz
 * -600KHz offset
 * pl110.9
 
 **APRS IGates**
+
 * 144.390MHz RX-only ([K5UTD](http://aprs.fi/info/K5UTD))
 * 144.340MHz RX-only ([KE5GDB-1](http://aprs.fi/info/KE5GDB-1))
 
 **Weather Staion**
+
+* Davis VantageVue
 * [K5UTD-1](http://aprs.fi/info/K5UTD-1)
+* [WeeWX Info](http://www.thathamkid.com/k5utd/wx/)
 
 **FSQ Relay Station (testing!)**
+
 * 145.670MHz
 * 50 Watts @ 50 Feet
 
