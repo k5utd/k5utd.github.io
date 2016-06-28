@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/145.43_Coverage.jpg'
+cover: 'assets/images/K5UTD_AREDN_Coverage.jpg'
 title: AREDN Mesh at UTD
 date:   2016-06-28 12:00:00
 navigation: True
@@ -31,3 +31,8 @@ Users in Richardson, Plano, Addison, Farmers Branch, North Dallas, Murphy and Sa
 
 [Link Calculator](http://airlink.ubnt.com/)
 
+**Coverage Information**
+
+[RadioMobile Predicted Coverage](assets/images/UTD_AREDN.pdf)
+
+![K5UTD AREDN Coverage](assets/images/K5UTD_AREDN_Coverage.jpg)
