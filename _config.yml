@@ -11,10 +11,10 @@ name: 'K5UTD'
 description: "A group of RF misfits."
 
 # Author's info
-author: 'UTD Amatuer Radio Club'
+author: 'UTD Amateur Radio Club'
 # edit 'categories' in the front matter of every post to match this username
 nickname: k5utd
-bio: 'Join students and professionals from all different disciplines who are all involved in amatuer radio.'
+bio: 'Join students and professionals from all different disciplines who are all involved in amateur radio.'
 location: 'Richardson, Texas'
 url: 'http://k5utd.github.io'
 image: 'assets/images/gravatar.png'
