@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: ‘assets/images/k5utd_logo_background.png’
+cover: 'assets/images/k5utd_logo_background.png'
 title: Fall 2023 Meeting Times
 date:   2023-09-14 12:00:00
 navigation: True
