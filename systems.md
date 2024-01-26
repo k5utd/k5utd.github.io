@@ -14,9 +14,6 @@ The K5UTD Amateur Radio Club maintains systems to serve local area hams and club
 * 145.430MHz
 * -600KHz offset
 * pl110.9
+* Located on the Tager Tower on UT Dallas campus.
 
-**Weather Staion**
-
-* Davis VantageVue -- probably broken :(
-* [K5UTD-1](http://aprs.fi/info/K5UTD-1)
-* [WeeWX Info](http://www.thathamkid.com/k5utd/wx/)
+K5RWK maintains this repeater on behalf of K5UTD. 
