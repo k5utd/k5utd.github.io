@@ -11,4 +11,4 @@ The K5UTD Amateur Radio Club works to promote amateur radio within UTD and the g
 
 We maintain the 145.430- (pl110.9) repeater, and have a shack in the Engineering and Computer Science building on the UT Dallas campus.
 
-Feel free to [drop us a line](mailto:k5utd@aol.com) or follow us on [LinkedIn](https://www.linkedin.com/company/k5utd/).
+Feel free to [drop us a line](mailto:k5utd@aol.com) or follow us on [LinkedIn](https://www.linkedin.com/company/k5utd/). We also [have a Discord](https://discord.gg/JxJ3jHrKjN).
